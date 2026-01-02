@@ -1,0 +1,14 @@
+G:\UU Project\OOP-Fall25\Program-5\bin\Debug\net9.0\Program-5.exe
+G:\UU Project\OOP-Fall25\Program-5\bin\Debug\net9.0\Program-5.deps.json
+G:\UU Project\OOP-Fall25\Program-5\bin\Debug\net9.0\Program-5.runtimeconfig.json
+G:\UU Project\OOP-Fall25\Program-5\bin\Debug\net9.0\Program-5.dll
+G:\UU Project\OOP-Fall25\Program-5\bin\Debug\net9.0\Program-5.pdb
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\Program-5.GeneratedMSBuildEditorConfig.editorconfig
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\Program-5.AssemblyInfoInputs.cache
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\Program-5.AssemblyInfo.cs
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\Program-5.csproj.CoreCompileInputs.cache
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\Program-5.dll
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\refint\Program-5.dll
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\Program-5.pdb
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\Program-5.genruntimeconfig.cache
+G:\UU Project\OOP-Fall25\Program-5\obj\Debug\net9.0\ref\Program-5.dll
